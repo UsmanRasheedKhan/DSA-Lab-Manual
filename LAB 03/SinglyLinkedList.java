@@ -228,6 +228,7 @@ public class SinglyLinkedList {
             list.min();
             list.middleNode();
             list.odd();
+            list.traverse();
             list.reverse();
             list.traverse();
         }
