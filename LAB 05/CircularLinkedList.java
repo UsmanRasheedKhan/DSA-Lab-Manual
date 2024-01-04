@@ -240,7 +240,7 @@ public void reverse() {
             list.length();
             list.deleteLast();
             list.traverse();
-            list.length();5
+            list.length();
             list.deletePos();
             list.traverse();
             list.length();
